@@ -1,0 +1,5 @@
+OmniCorp Remote Work Policy 2026
+Employees at OmniCorp are allowed to work remotely up to 3 days per week. 
+Core collaboration hours are from 10:00 AM to 3:00 PM EST, during which all remote employees must be reachable on Slack.
+Core Engineering team members receive a $500 home-office stipend upon onboarding to purchase monitors or ergonomic chairs.
+Travel expenses for the annual team retreat in October are 100% covered by the company.
